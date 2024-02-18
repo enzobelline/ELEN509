@@ -1,0 +1,133 @@
+# ninja log v5
+51	325	6425892080000000	G:/My Drive/Y4Q3/ELEN 509/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Application/User/Core/stm32g0xx_hal_msp.xcl	71694dd60c236ef6
+24	376	6425892080000000	G:/My Drive/Y4Q3/ELEN 509/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Drivers/CMSIS/system_stm32g0xx.xcl	855b111185df782f
+1785	1985	6425892102500000	G:/My Drive/Y4Q3/ELEN 509/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_gpio.pbi	9e136e2420502b50
+1223	1548	6425892090000000	G:/My Drive/Y4Q3/ELEN 509/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_ll_rcc.xcl	3efc02faf0381e5
+74	411	6425892080000000	G:/My Drive/Y4Q3/ELEN 509/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal.xcl	fb3138634b7ec986
+66	431	6425892080000000	G:/My Drive/Y4Q3/ELEN 509/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Application/User/Core/ux_manager.xcl	ecfa6200a107830a
+1135	1436	6425892090000000	G:/My Drive/Y4Q3/ELEN 509/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Application/Display/ssd1306.xcl	2f78492ebbb00d20
+14	447	6425892080000000	G:/My Drive/Y4Q3/ELEN 509/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Application/User/Core/Serial.xcl	24f7ef9210efa72b
+57	513	6425892080000000	G:/My Drive/Y4Q3/ELEN 509/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Application/User/Core/stm32g0xx_it.xcl	ad80b3885221cdaa
+83	464	6425892080000000	G:/My Drive/Y4Q3/ELEN 509/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_exti.xcl	208d422c16ceccaf
+92	481	6425892080000000	G:/My Drive/Y4Q3/ELEN 509/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_flash.xcl	b5f6a7eb22cd4aca
+206	245	6426034136910000	G:/My Drive/Y4Q3/ELEN 509/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/HMI_Development.pbd	c3b9a7046650d428
+1847	2022	6425892102880000	G:/My Drive/Y4Q3/ELEN 509/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_i2c_ex.pbi	df50cc956add8c35
+353	647	6425892080000000	G:/My Drive/Y4Q3/ELEN 509/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_dma_ex.xcl	efe678232215bc12
+393	729	6425892080000000	G:/My Drive/Y4Q3/ELEN 509/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_flash_ex.xcl	4c1c81a45b5f4c2a
+1933	2129	6425892103920000	G:/My Drive/Y4Q3/ELEN 509/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_uart.pbi	39a27f7c77fb789b
+1858	2047	6425892103230000	G:/My Drive/Y4Q3/ELEN 509/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_uart_ex.pbi	3a5dbb17b7b1defb
+1675	1849	6425892101260000	G:/My Drive/Y4Q3/ELEN 509/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_flash_ex.pbi	aa6c83823d85d03c
+1542	1749	6425892100160000	G:/My Drive/Y4Q3/ELEN 509/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_dma_ex.pbi	347ad5ff0e34bd1d
+422	777	6425892090000000	G:/My Drive/Y4Q3/ELEN 509/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_dma.xcl	6403c89bd246cdf8
+92	704	6425980610080000	G:/My Drive/Y4Q3/ELEN 509/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Application/Display/ssd1306.pbi	8ca31e78cca6be7c
+1572	1778	6425892100500000	G:/My Drive/Y4Q3/ELEN 509/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_exti.pbi	4f9f83441ef636a4
+1308	1497	6425892097720000	G:/My Drive/Y4Q3/ELEN 509/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Application/User/Core/stm32g0xx_hal_msp.pbi	4854c1a32c95973a
+527	802	6425892090000000	G:/My Drive/Y4Q3/ELEN 509/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_i2c.xcl	9029fab12acdf933
+1428	1628	6425892098860000	G:/My Drive/Y4Q3/ELEN 509/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal.pbi	52ca8967a4408fbe
+813	1180	6425892090000000	G:/My Drive/Y4Q3/ELEN 509/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_tim_ex.xcl	fa6ef4cadbccf885
+457	826	6425892090000000	G:/My Drive/Y4Q3/ELEN 509/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_pwr.xcl	7f5c485a6f3706aa
+505	849	6425892090000000	G:/My Drive/Y4Q3/ELEN 509/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_pwr_ex.xcl	ee33a394b7b9a0f6
+441	904	6425892090000000	G:/My Drive/Y4Q3/ELEN 509/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_cortex.xcl	c10c86b355da3254
+474	878	6425892090000000	G:/My Drive/Y4Q3/ELEN 509/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_gpio.xcl	34eee98fcb883ea7
+2043	2183	6425892104580000	G:/My Drive/Y4Q3/ELEN 509/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_ll_rcc.pbi	7867e62984ee3399
+1726	1878	6425892101550000	G:/My Drive/Y4Q3/ELEN 509/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_pwr.pbi	9e1c313a748d7177
+655	942	6425892090000000	G:/My Drive/Y4Q3/ELEN 509/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_rcc.xcl	7ecd7b8cf74fa836
+61	157	6426034136040000	G:/My Drive/Y4Q3/ELEN 509/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Application/User/Core/main.pbi	8d2a638497482bc3
+739	977	6425892090000000	G:/My Drive/Y4Q3/ELEN 509/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_i2c_ex.xcl	64e8f8e179a17197
+788	1106	6425892090000000	G:/My Drive/Y4Q3/ELEN 509/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_rcc_ex.xcl	dd519751b16d329f
+927	1245	6425892090000000	G:/My Drive/Y4Q3/ELEN 509/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_uart.xcl	b139087270adbaf3
+1996	2146	6425892104130000	G:/My Drive/Y4Q3/ELEN 509/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_rcc_ex.pbi	cc6779bccd65ef04
+836	1273	6425892090000000	G:/My Drive/Y4Q3/ELEN 509/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_uart_ex.xcl	18a07e734cbd8ab4
+869	1292	6425892090000000	G:/My Drive/Y4Q3/ELEN 509/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_tim.xcl	c5216d6b0ee47988
+891	1311	6425892090000000	G:/My Drive/Y4Q3/ELEN 509/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_ll_dma.xcl	950325602dac38fc
+962	1330	6425892090000000	G:/My Drive/Y4Q3/ELEN 509/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Application/User/Core/main.xcl	558f00e37c95046b
+998	1353	6425892090000000	G:/My Drive/Y4Q3/ELEN 509/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Application/Display/fonts.xcl	7510f9e862f5c5c7
+1269	1412	6425892096770000	G:/My Drive/Y4Q3/ELEN 509/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Application/User/Core/Serial.pbi	99d966cd8d3dbc91
+1907	2087	6425892103610000	G:/My Drive/Y4Q3/ELEN 509/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_rcc.pbi	1410f78a347a4627
+1289	1462	6425892097220000	G:/My Drive/Y4Q3/ELEN 509/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Application/User/Core/stm32g0xx_it.pbi	ef768af13a0d14e1
+1327	1535	6425892098030000	G:/My Drive/Y4Q3/ELEN 509/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_cortex.pbi	a52e14fb006ff36a
+1477	1666	6425892099360000	G:/My Drive/Y4Q3/ELEN 509/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_dma.pbi	192378efc978b7c5
+64	131	6426030271060000	G:/My Drive/Y4Q3/ELEN 509/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Application/User/Core/ux_manager.pbi	b601f284a85f6211
+1617	1819	6425892100870000	G:/My Drive/Y4Q3/ELEN 509/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Drivers/CMSIS/system_stm32g0xx.pbi	1d3a9d11c22943e8
+2187	2212	6425892104960000	G:/My Drive/Y4Q3/ELEN 509/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/HMI_Development_part5.pbi	598b2e9470528bd0
+1646	1840	6425892101100000	G:/My Drive/Y4Q3/ELEN 509/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_i2c.pbi	5001894b1114096e
+1375	1861	6425892101370000	G:/My Drive/Y4Q3/ELEN 509/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Application/Display/fonts.pbi	674b3640fc6e8bc9
+1758	1921	6425892101990000	G:/My Drive/Y4Q3/ELEN 509/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_pwr_ex.pbi	2454d8f16f70a588
+2143	2192	6425892104720000	G:/My Drive/Y4Q3/ELEN 509/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/HMI_Development_part3.pbi	df743180083c1d5f
+1828	2014	6425892102880000	G:/My Drive/Y4Q3/ELEN 509/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_flash.pbi	bad344a86b8c43ce
+1865	2037	6425892103040000	G:/My Drive/Y4Q3/ELEN 509/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_ll_dma.pbi	22a16f857bb2f24c
+135	166	6426030271420000	G:/My Drive/Y4Q3/ELEN 509/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/HMI_Development_part1.pbi	c34a9927b28a3b13
+2019	2169	6425892104450000	G:/My Drive/Y4Q3/ELEN 509/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_tim_ex.pbi	d22a759ef1c3be85
+2092	2175	6425892104540000	G:/My Drive/Y4Q3/ELEN 509/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/HMI_Development_part2.pbi	1c8d35ede74297bf
+2033	2200	6425892104780000	G:/My Drive/Y4Q3/ELEN 509/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_tim.pbi	10601298f0783cf8
+2204	2227	6425892105120000	G:/My Drive/Y4Q3/ELEN 509/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/HMI_Development_part4.pbi	886bf7c15f31b0dd
+160	201	6426034136470000	G:/My Drive/Y4Q3/ELEN 509/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/HMI_Development_part0.pbi	852d353479adb375
+250	504	6426034139370000	G:/My Drive/Y4Q3/ELEN 509/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/HMI_Development.pbw	4f78f7cde035b832
+126	250	6454481410000000	C:/Users/charl/Documents/gitrepos/ELEN509/Projects/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Drivers/CMSIS/system_stm32g0xx.xcl	d135ea2eae0b764c
+124	260	6454481410000000	C:/Users/charl/Documents/gitrepos/ELEN509/Projects/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Application/User/Core/stm32g0xx_it.xcl	c31266549e34d676
+119	269	6454481410000000	C:/Users/charl/Documents/gitrepos/ELEN509/Projects/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Application/User/Core/Serial.xcl	1f536e1b53de2f3d
+138	279	6454481410000000	C:/Users/charl/Documents/gitrepos/ELEN509/Projects/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_dma.xcl	7067023c8dbf27e7
+129	290	6454481410000000	C:/Users/charl/Documents/gitrepos/ELEN509/Projects/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Application/User/Core/ux_manager.xcl	dfb73a6abab6edc5
+142	299	6454481410000000	C:/Users/charl/Documents/gitrepos/ELEN509/Projects/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_dma_ex.xcl	fb65b1adfa059186
+135	309	6454481410000000	C:/Users/charl/Documents/gitrepos/ELEN509/Projects/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Application/User/Core/stm32g0xx_hal_msp.xcl	1d1efc2f5f7be2ce
+132	321	6454481410000000	C:/Users/charl/Documents/gitrepos/ELEN509/Projects/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal.xcl	eb0fdd8e9837c95f
+257	390	6454481410000000	C:/Users/charl/Documents/gitrepos/ELEN509/Projects/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_cortex.xcl	1b273b89fe735db
+287	401	6454481410000000	C:/Users/charl/Documents/gitrepos/ELEN509/Projects/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_flash.xcl	16202fa5f62c6a3a
+276	413	6454481410000000	C:/Users/charl/Documents/gitrepos/ELEN509/Projects/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_flash_ex.xcl	36d3801520e7223e
+297	423	6454481410000000	C:/Users/charl/Documents/gitrepos/ELEN509/Projects/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_i2c.xcl	4efeafc17decb118
+307	434	6454481410000000	C:/Users/charl/Documents/gitrepos/ELEN509/Projects/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_pwr.xcl	a52e7a9ed903f248
+267	444	6454481410000000	C:/Users/charl/Documents/gitrepos/ELEN509/Projects/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_exti.xcl	bc8267d48859e53c
+318	467	6454481410000000	C:/Users/charl/Documents/gitrepos/ELEN509/Projects/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_pwr_ex.xcl	11aa351175ab33da
+331	494	6454481410000000	C:/Users/charl/Documents/gitrepos/ELEN509/Projects/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_rcc.xcl	41562832a812330a
+398	515	6454481410000000	C:/Users/charl/Documents/gitrepos/ELEN509/Projects/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_i2c_ex.xcl	b7dfa692af49ba62
+410	543	6454481410000000	C:/Users/charl/Documents/gitrepos/ELEN509/Projects/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_gpio.xcl	9ef161f02dacc9c1
+420	567	6454481410000000	C:/Users/charl/Documents/gitrepos/ELEN509/Projects/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Application/Display/ssd1306.xcl	c9b91acd5e13a2dd
+430	611	6454481410000000	C:/Users/charl/Documents/gitrepos/ELEN509/Projects/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Application/User/Core/main.xcl	2f2722bdd7d80fc
+441	620	6454481410000000	C:/Users/charl/Documents/gitrepos/ELEN509/Projects/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Application/Display/fonts.xcl	dcdf36f36359db45
+451	643	6454481410000000	C:/Users/charl/Documents/gitrepos/ELEN509/Projects/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_uart_ex.xcl	562f3f8229b3d81d
+475	657	6454481410000000	C:/Users/charl/Documents/gitrepos/ELEN509/Projects/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_tim.xcl	34b68b9b932bf9b8
+523	666	6454481410000000	C:/Users/charl/Documents/gitrepos/ELEN509/Projects/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_rcc_ex.xcl	950680ba38f4a02d
+501	681	6454481410000000	C:/Users/charl/Documents/gitrepos/ELEN509/Projects/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_uart.xcl	e7aaa5511bce1e10
+549	693	6454481410000000	C:/Users/charl/Documents/gitrepos/ELEN509/Projects/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_ll_dma.xcl	8564f3256f857ff1
+576	707	6454481410000000	C:/Users/charl/Documents/gitrepos/ELEN509/Projects/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_tim_ex.xcl	216955de07d22469
+687	831	6454481410000000	C:/Users/charl/Documents/gitrepos/ELEN509/Projects/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_ll_rcc.xcl	d45066218c37db18
+617	1191	6454481423493804	C:/Users/charl/Documents/gitrepos/ELEN509/Projects/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Application/User/Core/stm32g0xx_hal_msp.pbi	5b5a6e90f042ff3b
+701	1196	6454481423503802	C:/Users/charl/Documents/gitrepos/ELEN509/Projects/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal.pbi	c5a2c76cf7766b97
+628	1202	6454481423573819	C:/Users/charl/Documents/gitrepos/ELEN509/Projects/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Application/User/Core/Serial.pbi	878bf3b542c6d92a
+838	1207	6454481423603827	C:/Users/charl/Documents/gitrepos/ELEN509/Projects/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_dma.pbi	383bac55f252d53b
+664	1217	6454481423733858	C:/Users/charl/Documents/gitrepos/ELEN509/Projects/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Application/Display/fonts.pbi	d2b2b8a3c46a116a
+651	1245	6454481424033925	C:/Users/charl/Documents/gitrepos/ELEN509/Projects/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Application/Display/ssd1306.pbi	c28b060d88bbc01b
+713	1261	6454481424193960	C:/Users/charl/Documents/gitrepos/ELEN509/Projects/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Application/User/Core/ux_manager.pbi	8c71e34d9c9c1462
+673	1306	6454481424645504	C:/Users/charl/Documents/gitrepos/ELEN509/Projects/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Application/User/Core/main.pbi	3e3d1ce295a0f3d2
+1193	1447	6454481426045822	C:/Users/charl/Documents/gitrepos/ELEN509/Projects/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Application/User/Core/stm32g0xx_it.pbi	c95f60dc1ec228fb
+1199	1455	6454481426145845	C:/Users/charl/Documents/gitrepos/ELEN509/Projects/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Drivers/CMSIS/system_stm32g0xx.pbi	8bc25b775ec67fbe
+1210	1461	6454481426185852	C:/Users/charl/Documents/gitrepos/ELEN509/Projects/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_dma_ex.pbi	dfd3e88c69003a8d
+1205	1467	6454481426195859	C:/Users/charl/Documents/gitrepos/ELEN509/Projects/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_cortex.pbi	5001a4829e314e6f
+1220	1473	6454481426285877	C:/Users/charl/Documents/gitrepos/ELEN509/Projects/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_exti.pbi	6d08c140008479e
+1247	1500	6454481426585944	C:/Users/charl/Documents/gitrepos/ELEN509/Projects/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_i2c_ex.pbi	51a39a390e9f6159
+1263	1511	6454481426695967	C:/Users/charl/Documents/gitrepos/ELEN509/Projects/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_gpio.pbi	d40229c352c2fc8a
+1309	1567	6454481427246094	C:/Users/charl/Documents/gitrepos/ELEN509/Projects/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_pwr.pbi	98341474580a8627
+1449	1694	6454481428517929	C:/Users/charl/Documents/gitrepos/ELEN509/Projects/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_flash_ex.pbi	3b04771a2d8c48f1
+1459	1714	6454481428727976	C:/Users/charl/Documents/gitrepos/ELEN509/Projects/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_flash.pbi	5ae6d3112fcc9467
+1470	1720	6454481428767989	C:/Users/charl/Documents/gitrepos/ELEN509/Projects/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_uart_ex.pbi	d2e9577342cf235c
+1476	1726	6454481428747987	C:/Users/charl/Documents/gitrepos/ELEN509/Projects/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_tim.pbi	9ed1ccb23ec8d8f9
+1514	1750	6454481429098058	C:/Users/charl/Documents/gitrepos/ELEN509/Projects/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_tim_ex.pbi	ea40e51ca23a4cb0
+1729	1778	6454481429358117	C:/Users/charl/Documents/gitrepos/ELEN509/Projects/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_ll_dma.pbi	37f5bc30b1b99191
+1464	1788	6454481429458142	C:/Users/charl/Documents/gitrepos/ELEN509/Projects/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_i2c.pbi	5dd008ddb3d3e18c
+1791	1836	6454481429948252	C:/Users/charl/Documents/gitrepos/ELEN509/Projects/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_ll_rcc.pbi	965fa00937618f45
+1503	1873	6454481430308332	C:/Users/charl/Documents/gitrepos/ELEN509/Projects/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_rcc.pbi	e76ef8d6b8d279e6
+1838	1921	6454481430808442	C:/Users/charl/Documents/gitrepos/ELEN509/Projects/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/HMI_Development_part5.pbi	ed0947ec6571a5b2
+1696	1949	6454481431088507	C:/Users/charl/Documents/gitrepos/ELEN509/Projects/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_pwr_ex.pbi	67ff6b5cd4c06341
+1570	1960	6454481431188529	C:/Users/charl/Documents/gitrepos/ELEN509/Projects/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_uart.pbi	755e34714cbfa7ff
+1717	1972	6454481431298555	C:/Users/charl/Documents/gitrepos/ELEN509/Projects/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_rcc_ex.pbi	29da02ad3237f664
+1723	1999	6454481431598637	C:/Users/charl/Documents/gitrepos/ELEN509/Projects/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/HMI_Development_part2.pbi	a4f5a72f35a3c28e
+1753	2023	6454481431848673	C:/Users/charl/Documents/gitrepos/ELEN509/Projects/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/HMI_Development_part1.pbi	5445a720789e95c4
+1780	2042	6454481432038715	C:/Users/charl/Documents/gitrepos/ELEN509/Projects/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/HMI_Development_part0.pbi	94469b7de6f9e526
+1952	2198	6454481433592749	C:/Users/charl/Documents/gitrepos/ELEN509/Projects/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/HMI_Development_part3.pbi	6cab10be9d990b70
+1974	2205	6454481433662772	C:/Users/charl/Documents/gitrepos/ELEN509/Projects/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/HMI_Development_part4.pbi	455edee1986aa08e
+2209	2441	6454481436025891	C:/Users/charl/Documents/gitrepos/ELEN509/Projects/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/HMI_Development.pbd	4d205af16a2659b9
+2445	3608	6454481447319980	C:/Users/charl/Documents/gitrepos/ELEN509/Projects/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/HMI_Development.pbw	43ff8dab5af8c41
+4	219	6454514845123416	C:/Users/charl/Documents/gitrepos/ELEN509/Projects/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/Application/User/Core/main.pbi	3e3d1ce295a0f3d2
+221	434	6454514847295144	C:/Users/charl/Documents/gitrepos/ELEN509/Projects/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/HMI_Development_part0.pbi	94469b7de6f9e526
+439	669	6454514849650116	C:/Users/charl/Documents/gitrepos/ELEN509/Projects/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/HMI_Development.pbd	4d205af16a2659b9
+675	1877	6454514861333056	C:/Users/charl/Documents/gitrepos/ELEN509/Projects/Lab 3/HMI_Development/EWARM/HMI_Development/BrowseInfo/HMI_Development.pbw	43ff8dab5af8c41

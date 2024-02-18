@@ -1,0 +1,99 @@
+# ninja log v5
+173	692	6419773050000000	G:/My Drive/Y4Q3/ELEN 509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_flash.xcl	260e143eefa2d995
+290	820	6419773050000000	G:/My Drive/Y4Q3/ELEN 509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_pwr.xcl	b83bedc5e39f172d
+8	944	6419773060000000	G:/My Drive/Y4Q3/ELEN 509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_exti.xcl	269c3ce15abb5f0e
+138	964	6419773060000000	G:/My Drive/Y4Q3/ELEN 509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_tim.xcl	624d611fabfb5bef
+210	1014	6419773060000000	G:/My Drive/Y4Q3/ELEN 509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_flash_ex.xcl	a68d2922e7cac3ed
+89	1065	6419773060000000	G:/My Drive/Y4Q3/ELEN 509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_dma.xcl	ef25c36fea95965
+78	1114	6419773060000000	G:/My Drive/Y4Q3/ELEN 509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_cortex.xcl	c0b385dde594c32c
+246	1242	6419773060000000	G:/My Drive/Y4Q3/ELEN 509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_dma_ex.xcl	3183e73582dce1f8
+735	1325	6419773060000000	G:/My Drive/Y4Q3/ELEN 509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_gpio.xcl	bcd6d760cb87ae45
+891	1344	6419773060000000	G:/My Drive/Y4Q3/ELEN 509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_rcc_ex.xcl	8022ec2408244e56
+998	1708	6419773060000000	G:/My Drive/Y4Q3/ELEN 509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_rcc.xcl	d116ed5e21967c0b
+957	1806	6419773070000000	G:/My Drive/Y4Q3/ELEN 509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_pwr_ex.xcl	d1bd2c2b79995774
+1048	1921	6419773070000000	G:/My Drive/Y4Q3/ELEN 509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_uart_ex.xcl	9fdd1c0df3d548ec
+1153	1940	6419773070000000	G:/My Drive/Y4Q3/ELEN 509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_tim_ex.xcl	af90d5b324778510
+1101	1975	6419773070000000	G:/My Drive/Y4Q3/ELEN 509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_ll_rcc.xcl	1bad91f3b6625974
+1283	2019	6419773070000000	G:/My Drive/Y4Q3/ELEN 509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_uart.xcl	e5258f542e701ecd
+1386	2070	6419773070000000	G:/My Drive/Y4Q3/ELEN 509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Application/User/Core/stm32g0xx_hal_msp.xcl	82c1f6dc0c017979
+1335	2111	6419773070000000	G:/My Drive/Y4Q3/ELEN 509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Application/User/Core/main.xcl	da5aa6d880349397
+1972	2359	6419773075960000	G:/My Drive/Y4Q3/ELEN 509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_dma.pbi	2253ffd44343a601
+1761	2457	6419773070000000	G:/My Drive/Y4Q3/ELEN 509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Drivers/CMSIS/system_stm32g0xx.xcl	155d17588586ab8a
+2016	2523	6419773077680000	G:/My Drive/Y4Q3/ELEN 509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_cortex.pbi	58e2b71e8c445d09
+2066	2556	6419773077680000	G:/My Drive/Y4Q3/ELEN 509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_dma_ex.pbi	ee21f8e4f8f751dc
+1856	2566	6419773070000000	G:/My Drive/Y4Q3/ELEN 509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal.xcl	dfe6bb6762cbb6f4
+2109	2612	6419773078680000	G:/My Drive/Y4Q3/ELEN 509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Application/User/Core/stm32g0xx_hal_msp.pbi	ef21a5531fe411ce
+2187	2653	6419773078680000	G:/My Drive/Y4Q3/ELEN 509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Application/User/Core/main.pbi	56f1f33d977d30fe
+1930	2746	6419773070000000	G:/My Drive/Y4Q3/ELEN 509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Application/User/Core/stm32g0xx_it.xcl	d6ac18939e95dbc
+2395	2802	6419773080640000	G:/My Drive/Y4Q3/ELEN 509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_flash.pbi	b6da93881f30d085
+2516	2882	6419773081420000	G:/My Drive/Y4Q3/ELEN 509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Drivers/CMSIS/system_stm32g0xx.pbi	6550ae0532575463
+2552	2929	6419773081870000	G:/My Drive/Y4Q3/ELEN 509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_pwr.pbi	353eb7e35c1a6e7f
+2563	3026	6419773082880000	G:/My Drive/Y4Q3/ELEN 509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_gpio.pbi	3c3c7d70bb366e7a
+2689	3076	6419773083260000	G:/My Drive/Y4Q3/ELEN 509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_exti.pbi	f692f394dcd75e4f
+2609	3115	6419773083260000	G:/My Drive/Y4Q3/ELEN 509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal.pbi	e64b95772b1094fd
+2650	3157	6419773083760000	G:/My Drive/Y4Q3/ELEN 509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_flash_ex.pbi	1ef954aab46dc6d5
+2794	3257	6419773085060000	G:/My Drive/Y4Q3/ELEN 509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Application/User/Core/stm32g0xx_it.pbi	ed175ec501b1493b
+2829	3393	6419773086300000	G:/My Drive/Y4Q3/ELEN 509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_rcc_ex.pbi	f9ec7bf0a85dadbc
+2968	3535	6419773087880000	G:/My Drive/Y4Q3/ELEN 509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_tim.pbi	7d0ea55d4851084d
+2915	3569	6419773087880000	G:/My Drive/Y4Q3/ELEN 509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_tim_ex.pbi	1c1ded45b1752c88
+3057	3583	6419773088430000	G:/My Drive/Y4Q3/ELEN 509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_pwr_ex.pbi	236ec15ada32e504
+3153	3625	6419773088800000	G:/My Drive/Y4Q3/ELEN 509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_rcc.pbi	11369a8081532385
+3275	3639	6419773088960000	G:/My Drive/Y4Q3/ELEN 509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Lab_2_part0.pbi	5148d2c6b179973
+3190	3694	6419773089490000	G:/My Drive/Y4Q3/ELEN 509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_uart_ex.pbi	62ffce799158b793
+3112	3698	6419773089490000	G:/My Drive/Y4Q3/ELEN 509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_uart.pbi	2287c797668722e5
+3426	3739	6419773090080000	G:/My Drive/Y4Q3/ELEN 509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_ll_rcc.pbi	16be215f8bb4ea4d
+3566	3749	6419773090430000	G:/My Drive/Y4Q3/ELEN 509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Lab_2_part1.pbi	68b35842d0a0fe00
+3636	3787	6419773090620000	G:/My Drive/Y4Q3/ELEN 509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Lab_2_part2.pbi	f3de5da6ce70f13
+3730	3826	6419773091030000	G:/My Drive/Y4Q3/ELEN 509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Lab_2_part3.pbi	fe8403affff19044
+3744	3830	6419773091030000	G:/My Drive/Y4Q3/ELEN 509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Lab_2_part4.pbi	fa4b1de1fa674603
+3832	3890	6419773091620000	G:/My Drive/Y4Q3/ELEN 509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Lab_2.pbd	d335c5b2bf949d01
+3893	4152	6419773094100000	G:/My Drive/Y4Q3/ELEN 509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Lab_2.pbw	314eddcedf807c5d
+100	382	6443717230000000	C:/Users/charl/Documents/gitrepos/ELEN509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Application/User/Core/main.xcl	a4afbcdc8c294d20
+109	390	6443717230000000	C:/Users/charl/Documents/gitrepos/ELEN509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_dma_ex.xcl	9375fb3b1817ff9f
+66	398	6443717230000000	C:/Users/charl/Documents/gitrepos/ELEN509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Application/User/Core/stm32g0xx_it.xcl	18206d0e4e0b384b
+114	407	6443717230000000	C:/Users/charl/Documents/gitrepos/ELEN509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Drivers/CMSIS/system_stm32g0xx.xcl	d69a5d3be21c06fa
+104	419	6443717230000000	C:/Users/charl/Documents/gitrepos/ELEN509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_exti.xcl	ceb87832f39b0e25
+106	435	6443717230000000	C:/Users/charl/Documents/gitrepos/ELEN509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal.xcl	2fa9739606508777
+116	468	6443717230000000	C:/Users/charl/Documents/gitrepos/ELEN509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_cortex.xcl	cc304e2e0b5327d7
+97	477	6443717230000000	C:/Users/charl/Documents/gitrepos/ELEN509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Application/User/Core/stm32g0xx_hal_msp.xcl	d9838e56720a558d
+388	486	6443717230000000	C:/Users/charl/Documents/gitrepos/ELEN509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_dma.xcl	6aec8e49c7a14426
+395	496	6443717230000000	C:/Users/charl/Documents/gitrepos/ELEN509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_rcc.xcl	e0cf81970f6eb38d
+404	505	6443717230000000	C:/Users/charl/Documents/gitrepos/ELEN509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_flash.xcl	ab937fb42067e2a7
+413	515	6443717230000000	C:/Users/charl/Documents/gitrepos/ELEN509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_gpio.xcl	64123ebf4bbce266
+426	525	6443717230000000	C:/Users/charl/Documents/gitrepos/ELEN509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_pwr.xcl	31398e1a1642c481
+441	541	6443717230000000	C:/Users/charl/Documents/gitrepos/ELEN509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_pwr_ex.xcl	fab38db4a90554c8
+474	583	6443717230000000	C:/Users/charl/Documents/gitrepos/ELEN509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_flash_ex.xcl	4d950ee2acb79fe1
+483	598	6443717230000000	C:/Users/charl/Documents/gitrepos/ELEN509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_uart_ex.xcl	9134b7f6e157b95
+493	606	6443717230000000	C:/Users/charl/Documents/gitrepos/ELEN509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_ll_rcc.xcl	240415010827fea7
+503	614	6443717230000000	C:/Users/charl/Documents/gitrepos/ELEN509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_uart.xcl	2d2ff29f11e46d30
+512	626	6443717230000000	C:/Users/charl/Documents/gitrepos/ELEN509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_rcc_ex.xcl	ce46fdf250229854
+522	639	6443717230000000	C:/Users/charl/Documents/gitrepos/ELEN509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_tim.xcl	5492f751067cf99c
+532	648	6443717230000000	C:/Users/charl/Documents/gitrepos/ELEN509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_tim_ex.xcl	f8e408252eafecd6
+548	1158	6443717243050910	C:/Users/charl/Documents/gitrepos/ELEN509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Drivers/CMSIS/system_stm32g0xx.pbi	def12343cb13da79
+633	1163	6443717243110937	C:/Users/charl/Documents/gitrepos/ELEN509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_cortex.pbi	fbb377f36d9ad28a
+654	1169	6443717243140928	C:/Users/charl/Documents/gitrepos/ELEN509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_flash_ex.pbi	31675fabc18263f4
+612	1174	6443717243140928	C:/Users/charl/Documents/gitrepos/ELEN509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_dma.pbi	bb8661a9b3425792
+590	1179	6443717243160937	C:/Users/charl/Documents/gitrepos/ELEN509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal.pbi	9513bc17af268587
+620	1184	6443717243280961	C:/Users/charl/Documents/gitrepos/ELEN509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Application/User/Core/main.pbi	5c5a38a310ef7405
+603	1191	6443717243280961	C:/Users/charl/Documents/gitrepos/ELEN509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Application/User/Core/stm32g0xx_hal_msp.pbi	76c1abfa1fbfa74f
+645	1196	6443717243320972	C:/Users/charl/Documents/gitrepos/ELEN509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Application/User/Core/stm32g0xx_it.pbi	ff8c8349a44e4097
+1199	1240	6443717243881100	C:/Users/charl/Documents/gitrepos/ELEN509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_ll_rcc.pbi	2d95430fe7c3dd6d
+1166	1419	6443717245651498	C:/Users/charl/Documents/gitrepos/ELEN509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_flash.pbi	ea4236ac6218d771
+1161	1426	6443717245661502	C:/Users/charl/Documents/gitrepos/ELEN509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_gpio.pbi	e6aa0abb899ad023
+1177	1432	6443717245701507	C:/Users/charl/Documents/gitrepos/ELEN509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_pwr.pbi	a161e0b0ea832f41
+1187	1437	6443717245761523	C:/Users/charl/Documents/gitrepos/ELEN509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_dma_ex.pbi	44bb4c5eee588
+1182	1442	6443717245771527	C:/Users/charl/Documents/gitrepos/ELEN509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_pwr_ex.pbi	96e677f1eb57d8ba
+1171	1478	6443717245781526	C:/Users/charl/Documents/gitrepos/ELEN509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_exti.pbi	95fbb0372bf1c30e
+1194	1483	6443717245871550	C:/Users/charl/Documents/gitrepos/ELEN509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_uart_ex.pbi	f3f1d9d221361392
+1486	1495	6443717246461679	C:/Users/charl/Documents/gitrepos/ELEN509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Lab_2_part4.pbi	128b36dbdb26169
+1242	1596	6443717247431905	C:/Users/charl/Documents/gitrepos/ELEN509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_tim.pbi	60bddbb97a160db1
+1429	1667	6443717248132058	C:/Users/charl/Documents/gitrepos/ELEN509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_rcc_ex.pbi	f2ab6d901e42d801
+1422	1670	6443717248132058	C:/Users/charl/Documents/gitrepos/ELEN509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_rcc.pbi	d0831ebacfbd89b7
+1435	1676	6443717248232081	C:/Users/charl/Documents/gitrepos/ELEN509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_tim_ex.pbi	434740a05e835ce6
+1446	1731	6443717248812215	C:/Users/charl/Documents/gitrepos/ELEN509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Lab_2_part0.pbi	d8f9f0a2807bb8a6
+1480	1738	6443717248882226	C:/Users/charl/Documents/gitrepos/ELEN509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Lab_2_part1.pbi	85a819ccb039c5b2
+1440	1796	6443717249452361	C:/Users/charl/Documents/gitrepos/ELEN509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal_uart.pbi	5f9c9648a7f0fa19
+1673	1883	6443717250332560	C:/Users/charl/Documents/gitrepos/ELEN509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Lab_2_part2.pbi	1c39529e3c5ad970
+1799	2011	6443717251622842	C:/Users/charl/Documents/gitrepos/ELEN509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Lab_2_part3.pbi	f6c5a98e98f3c1d
+2016	2181	6443717253313231	C:/Users/charl/Documents/gitrepos/ELEN509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Lab_2.pbd	a06d86701fa1f4b
+2185	4209	6443717273272386	C:/Users/charl/Documents/gitrepos/ELEN509/Lab 2.1/EWARM/Lab_2/BrowseInfo/Lab_2.pbw	2804ea6ae7a44dd0

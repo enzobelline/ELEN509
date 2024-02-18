@@ -1,0 +1,492 @@
+[
+  {
+    "ID": "c:main.c@1298@macro@Q1",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "Q1",
+    "location": {
+      "column": "9",
+      "line": "36",
+      "path": "G:\\My Drive\\Y4Q3\\ELEN 509\\Lab 1\\Lab_1\\Src\\main.c"
+    },
+    "name": "Q1",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@1321@macro@Q2",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "Q2",
+    "location": {
+      "column": "9",
+      "line": "37",
+      "path": "G:\\My Drive\\Y4Q3\\ELEN 509\\Lab 1\\Lab_1\\Src\\main.c"
+    },
+    "name": "Q2",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@1344@macro@Q3",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "Q3",
+    "location": {
+      "column": "9",
+      "line": "38",
+      "path": "G:\\My Drive\\Y4Q3\\ELEN 509\\Lab 1\\Lab_1\\Src\\main.c"
+    },
+    "name": "Q3",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@1367@macro@Q4",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "Q4",
+    "location": {
+      "column": "9",
+      "line": "39",
+      "path": "G:\\My Drive\\Y4Q3\\ELEN 509\\Lab 1\\Lab_1\\Src\\main.c"
+    },
+    "name": "Q4",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@huart2",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "huart2",
+    "location": {
+      "column": "20",
+      "line": "48",
+      "path": "G:\\My Drive\\Y4Q3\\ELEN 509\\Lab 1\\Lab_1\\Src\\main.c"
+    },
+    "name": "huart2",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@SystemClock_Config",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void SystemClock_Config(void)",
+    "location": {
+      "column": "6",
+      "line": "55",
+      "path": "G:\\My Drive\\Y4Q3\\ELEN 509\\Lab 1\\Lab_1\\Src\\main.c"
+    },
+    "name": "SystemClock_Config",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@F@MX_GPIO_Init",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void MX_GPIO_Init(void)",
+    "location": {
+      "column": "13",
+      "line": "56",
+      "path": "G:\\My Drive\\Y4Q3\\ELEN 509\\Lab 1\\Lab_1\\Src\\main.c"
+    },
+    "name": "MX_GPIO_Init",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@F@MX_USART2_UART_Init",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void MX_USART2_UART_Init(void)",
+    "location": {
+      "column": "13",
+      "line": "57",
+      "path": "G:\\My Drive\\Y4Q3\\ELEN 509\\Lab 1\\Lab_1\\Src\\main.c"
+    },
+    "name": "MX_USART2_UART_Init",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@setASide",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void setASide(int)",
+    "location": {
+      "column": "6",
+      "line": "59",
+      "path": "G:\\My Drive\\Y4Q3\\ELEN 509\\Lab 1\\Lab_1\\Src\\main.c"
+    },
+    "name": "setASide",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@setBSide",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void setBSide(int)",
+    "location": {
+      "column": "6",
+      "line": "60",
+      "path": "G:\\My Drive\\Y4Q3\\ELEN 509\\Lab 1\\Lab_1\\Src\\main.c"
+    },
+    "name": "setBSide",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@main",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int main(void)",
+    "location": {
+      "column": "5",
+      "line": "72",
+      "path": "G:\\My Drive\\Y4Q3\\ELEN 509\\Lab 1\\Lab_1\\Src\\main.c"
+    },
+    "name": "main",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@SystemClock_Config",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void SystemClock_Config(void)",
+    "location": {
+      "column": "6",
+      "line": "142",
+      "path": "G:\\My Drive\\Y4Q3\\ELEN 509\\Lab 1\\Lab_1\\Src\\main.c"
+    },
+    "name": "SystemClock_Config",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@F@MX_USART2_UART_Init",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void MX_USART2_UART_Init(void)",
+    "location": {
+      "column": "13",
+      "line": "194",
+      "path": "G:\\My Drive\\Y4Q3\\ELEN 509\\Lab 1\\Lab_1\\Src\\main.c"
+    },
+    "name": "MX_USART2_UART_Init",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@F@MX_GPIO_Init",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void MX_GPIO_Init(void)",
+    "location": {
+      "column": "13",
+      "line": "242",
+      "path": "G:\\My Drive\\Y4Q3\\ELEN 509\\Lab 1\\Lab_1\\Src\\main.c"
+    },
+    "name": "MX_GPIO_Init",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@setASide",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void setASide(int)",
+    "location": {
+      "column": "6",
+      "line": "288",
+      "path": "G:\\My Drive\\Y4Q3\\ELEN 509\\Lab 1\\Lab_1\\Src\\main.c"
+    },
+    "name": "setASide",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@setBSide",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void setBSide(int)",
+    "location": {
+      "column": "6",
+      "line": "292",
+      "path": "G:\\My Drive\\Y4Q3\\ELEN 509\\Lab 1\\Lab_1\\Src\\main.c"
+    },
+    "name": "setBSide",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@Error_Handler",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void Error_Handler(void)",
+    "location": {
+      "column": "6",
+      "line": "302",
+      "path": "G:\\My Drive\\Y4Q3\\ELEN 509\\Lab 1\\Lab_1\\Src\\main.c"
+    },
+    "name": "Error_Handler",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@HAL_MspInit",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void HAL_MspInit(void)",
+    "location": {
+      "column": "6",
+      "line": "64",
+      "path": "G:\\My Drive\\Y4Q3\\ELEN 509\\Lab 1\\Lab_1\\Src\\stm32g0xx_hal_msp.c"
+    },
+    "name": "HAL_MspInit",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@HAL_UART_MspInit",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void HAL_UART_MspInit(int *)",
+    "location": {
+      "column": "6",
+      "line": "86",
+      "path": "G:\\My Drive\\Y4Q3\\ELEN 509\\Lab 1\\Lab_1\\Src\\stm32g0xx_hal_msp.c"
+    },
+    "name": "HAL_UART_MspInit",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@HAL_UART_MspDeInit",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void HAL_UART_MspDeInit(int *)",
+    "location": {
+      "column": "6",
+      "line": "122",
+      "path": "G:\\My Drive\\Y4Q3\\ELEN 509\\Lab 1\\Lab_1\\Src\\stm32g0xx_hal_msp.c"
+    },
+    "name": "HAL_UART_MspDeInit",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@NMI_Handler",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void NMI_Handler(void)",
+    "location": {
+      "column": "6",
+      "line": "70",
+      "path": "G:\\My Drive\\Y4Q3\\ELEN 509\\Lab 1\\Lab_1\\Src\\stm32g0xx_it.c"
+    },
+    "name": "NMI_Handler",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@HardFault_Handler",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void HardFault_Handler(void)",
+    "location": {
+      "column": "6",
+      "line": "83",
+      "path": "G:\\My Drive\\Y4Q3\\ELEN 509\\Lab 1\\Lab_1\\Src\\stm32g0xx_it.c"
+    },
+    "name": "HardFault_Handler",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@SVC_Handler",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void SVC_Handler(void)",
+    "location": {
+      "column": "6",
+      "line": "98",
+      "path": "G:\\My Drive\\Y4Q3\\ELEN 509\\Lab 1\\Lab_1\\Src\\stm32g0xx_it.c"
+    },
+    "name": "SVC_Handler",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@PendSV_Handler",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void PendSV_Handler(void)",
+    "location": {
+      "column": "6",
+      "line": "111",
+      "path": "G:\\My Drive\\Y4Q3\\ELEN 509\\Lab 1\\Lab_1\\Src\\stm32g0xx_it.c"
+    },
+    "name": "PendSV_Handler",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@SysTick_Handler",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void SysTick_Handler(void)",
+    "location": {
+      "column": "6",
+      "line": "124",
+      "path": "G:\\My Drive\\Y4Q3\\ELEN 509\\Lab 1\\Lab_1\\Src\\stm32g0xx_it.c"
+    },
+    "name": "SysTick_Handler",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:system_stm32g0xx.c@4063@macro@HSE_VALUE",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "HSE_VALUE",
+    "location": {
+      "column": "9",
+      "line": "82",
+      "path": "G:\\My Drive\\Y4Q3\\ELEN 509\\Lab 1\\Lab_1\\Src\\system_stm32g0xx.c"
+    },
+    "name": "HSE_VALUE",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:system_stm32g0xx.c@4202@macro@HSI_VALUE",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "HSI_VALUE",
+    "location": {
+      "column": "11",
+      "line": "86",
+      "path": "G:\\My Drive\\Y4Q3\\ELEN 509\\Lab 1\\Lab_1\\Src\\system_stm32g0xx.c"
+    },
+    "name": "HSI_VALUE",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:system_stm32g0xx.c@4337@macro@LSI_VALUE",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "LSI_VALUE",
+    "location": {
+      "column": "10",
+      "line": "90",
+      "path": "G:\\My Drive\\Y4Q3\\ELEN 509\\Lab 1\\Lab_1\\Src\\system_stm32g0xx.c"
+    },
+    "name": "LSI_VALUE",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:system_stm32g0xx.c@4453@macro@LSE_VALUE",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "LSE_VALUE",
+    "location": {
+      "column": "11",
+      "line": "94",
+      "path": "G:\\My Drive\\Y4Q3\\ELEN 509\\Lab 1\\Lab_1\\Src\\system_stm32g0xx.c"
+    },
+    "name": "LSE_VALUE",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:system_stm32g0xx.c@4938@macro@VECT_TAB_OFFSET",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "VECT_TAB_OFFSET",
+    "location": {
+      "column": "9",
+      "line": "117",
+      "path": "G:\\My Drive\\Y4Q3\\ELEN 509\\Lab 1\\Lab_1\\Src\\system_stm32g0xx.c"
+    },
+    "name": "VECT_TAB_OFFSET",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@SystemCoreClock",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "SystemCoreClock",
+    "location": {
+      "column": "12",
+      "line": "143",
+      "path": "G:\\My Drive\\Y4Q3\\ELEN 509\\Lab 1\\Lab_1\\Src\\system_stm32g0xx.c"
+    },
+    "name": "SystemCoreClock",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@AHBPrescTable",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "AHBPrescTable",
+    "location": {
+      "column": "18",
+      "line": "145",
+      "path": "G:\\My Drive\\Y4Q3\\ELEN 509\\Lab 1\\Lab_1\\Src\\system_stm32g0xx.c"
+    },
+    "name": "AHBPrescTable",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@APBPrescTable",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "APBPrescTable",
+    "location": {
+      "column": "18",
+      "line": "146",
+      "path": "G:\\My Drive\\Y4Q3\\ELEN 509\\Lab 1\\Lab_1\\Src\\system_stm32g0xx.c"
+    },
+    "name": "APBPrescTable",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@SystemInit",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void SystemInit(void)",
+    "location": {
+      "column": "6",
+      "line": "169",
+      "path": "G:\\My Drive\\Y4Q3\\ELEN 509\\Lab 1\\Lab_1\\Src\\system_stm32g0xx.c"
+    },
+    "name": "SystemInit",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@SystemCoreClockUpdate",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void SystemCoreClockUpdate(void)",
+    "location": {
+      "column": "6",
+      "line": "219",
+      "path": "G:\\My Drive\\Y4Q3\\ELEN 509\\Lab 1\\Lab_1\\Src\\system_stm32g0xx.c"
+    },
+    "name": "SystemCoreClockUpdate",
+    "origin": "project_file",
+    "scope": null
+  }
+]
